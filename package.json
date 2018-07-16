@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "A Chat application built with Node, Mongodb, Express and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElGuapo-Oficial/Chat-July2018.git"
+  },
+  "author": "Najash Marron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElGuapo-Oficial/Chat-July2018/issues"
+  },
+  "homepage": "https://github.com/ElGuapo-Oficial/Chat-July2018#readme"
+}
