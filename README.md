@@ -1,2 +1,2 @@
 # Chat-July2018
-Practicing Express and Socket.io
+A Chat application built with node, mongodb, express and socket.io
